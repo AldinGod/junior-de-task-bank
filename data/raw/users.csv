@@ -1,0 +1,86 @@
+user_id,full_name,email,country,signup_date
+1,Denise Williams,,HR,2026-02-02
+2,Jenny Williams,jordandavis@example.org,HR,2026-02-06
+3,William Diaz,lthompson@example.org,BA,2026-01-08
+4,Paul Newman,ramosdavid@example.net,US,2026-01-05
+5,Sarah Webster,guerrerobrent@example.com,RS,2025-12-23
+6,Larry Lewis,whitematthew@example.org,US,2026-01-28
+7,Amanda Ford MD,curtiswilson@example.net,BA,2026-02-10
+8,Tiffany Rodriguez,cmclean@example.net,HR,2026-02-09
+9,Cheryl Richardson,eric27@example.net,HR,2025-12-15
+10,Laurie Griffin,duffybrandon@example.com,,2025-12-21
+11,Alexander Cooper,wreed@example.net,HR,2026-01-26
+12,Nicole Smith,shane23@example.com,BA,2026-01-02
+13,Gerald Mason,srichardson@example.com,,2025-12-31
+14,Christopher Stewart,ufuentes@example.com,BA,2026-02-02
+15,Melissa Dickerson,josephsolomon@example.com,,2025-12-28
+16,Teresa Williams,brittanyjackson@example.org,US,2025-12-15
+17,Nicholas Andersen,adam15@example.com,UK,2026-01-27
+18,Amanda Stafford,scottmayer@example.com,,2026-01-17
+19,Lisa Banks,michaellyons@example.com,US,2026-01-16
+20,Amanda Shaffer,,RS,2026-01-30
+21,Anthony Clark,kidddawn@example.com,,2026-01-26
+22,Kenneth Cannon,sheltonvincent@example.net,US,2026-01-05
+23,Cory Jefferson,nicholasjohnson@example.org,HR,2026-01-30
+24,Michael Newman,thomasgaines@example.com,US,2025-12-16
+25,Ryan Sanders,thomas07@example.org,HR,2026-02-06
+26,Heidi Gomez,adamstiffany@example.org,BA,2026-02-10
+27,Johnathan Clark,ypierce@example.org,DE,2026-01-09
+28,Abigail Gonzalez,amy84@example.net,BA,2026-01-24
+29,Lisa James,john06@example.net,,2026-02-01
+30,Ronald Juarez,steven91@example.com,DE,2026-01-18
+31,Andrea Nguyen,deniseramirez@example.net,RS,2025-12-24
+32,Manuel Nichols,michael21@example.net,,2026-01-08
+33,Michael Griffith,frodriguez@example.com,BA,2025-12-15
+34,John Adams,dowens@example.org,DE,2025-12-16
+35,Jennifer Cruz,robert10@example.net,US,2026-01-27
+36,Amber Spencer,robyn54@example.net,UK,2026-01-24
+37,Sharon Garcia,pfigueroa@example.com,HR,2026-01-23
+38,Steven Clark,,US,2026-01-29
+39,Margaret Clayton,,UK,2026-02-10
+40,Donna Nunez,,UK,2025-12-19
+41,Juan Mooney,cparker@example.org,UK,2025-12-16
+42,Jeremiah Gordon,brian28@example.net,AT,2026-01-14
+43,Matthew Bell,,US,2026-01-10
+44,Brittany Lambert,hallkristen@example.com,RS,2026-02-09
+45,Sarah Singh,ugarza@example.com,HR,2026-01-29
+46,Brittany Martin,enunez@example.com,RS,2026-01-07
+47,Jeffery Mckenzie,joshua11@example.com,HR,2026-02-05
+48,Justin Mitchell,ajimenez@example.org,BA,2026-02-01
+49,Joseph Martin,abigailtrevino@example.org,AT,2025-12-24
+50,Mrs. Cindy Jimenez,stephaniemckenzie@example.org,AT,2026-02-02
+51,Heather Herring,zacharypatrick@example.net,US,2025-12-23
+52,Daniel Flowers,tjohnson@example.org,US,2026-01-17
+53,Melissa Smith,pgriffin@example.org,RS,2026-02-04
+54,Elizabeth Garcia,obrieneric@example.com,UK,2025-12-18
+55,Erica Harris,samanthafrench@example.net,,2026-01-26
+56,Steven Arroyo,,,2026-02-08
+57,Jorge Rojas,santosjane@example.net,,2026-01-03
+58,Danny Gallegos,bethanycarpenter@example.org,BA,2025-12-25
+59,Alyssa Burke,qwinters@example.org,RS,2026-01-05
+60,Jordan Hill,elizabeth05@example.net,US,2025-12-29
+61,Joseph Bennett,garrett64@example.com,US,2025-12-20
+62,Jillian Hicks,michael02@example.com,DE,2025-12-28
+63,Franklin Brooks,johnbennett@example.com,AT,2026-01-09
+64,Christine Shelton,,HR,2025-12-27
+65,Krystal Morales,monica07@example.org,BA,2025-12-27
+66,Rachael Rodriguez,allentoni@example.org,DE,2025-12-20
+67,Jennifer Jones,funderwood@example.com,HR,2026-01-05
+68,Logan Li,scollins@example.com,RS,2026-02-12
+69,Christine Dyer,brian66@example.org,RS,2026-02-03
+70,Lisa Gonzalez,stevenbishop@example.org,,2026-01-30
+71,Laura Pace,duncantiffany@example.com,BA,2025-12-31
+72,Patricia Stevens,nicolegibbs@example.com,,2026-01-05
+73,Anthony Small,jacksonmichael@example.net,DE,2026-02-06
+74,Anthony Howell,fmitchell@example.com,RS,2026-01-23
+75,Pamela Erickson,katie30@example.net,,2026-01-05
+76,Steven Robinson,antonio69@example.org,HR,2026-01-28
+77,Amber Martinez,,,2026-01-07
+78,Juan Carr,jessica85@example.com,UK,2026-01-04
+79,Mary Cohen,katherinecoleman@example.com,,2026-01-05
+80,Preston Scott,jeremy54@example.net,DE,2026-02-05
+31,Andrea Nguyen Jr.,deniseramirez@example.net,RS,2025-12-24
+1,Denise Williams Jr.,,HR,2026-02-02
+23,Cory Jefferson Jr.,nicholasjohnson@example.org,HR,2026-01-30
+32,Manuel Nichols Jr.,michael21@example.net,,2026-01-08
+19,Lisa Banks Jr.,michaellyons@example.com,US,2026-01-16

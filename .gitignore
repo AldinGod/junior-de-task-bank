@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+.vscode/
+
+# Data outputs
+data/silver/
+data/gold/
+
+# Spark
+spark-warehouse/
+metastore_db/
+*.log
