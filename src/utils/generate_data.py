@@ -45,7 +45,7 @@ def generate_users(fake: Faker, n: int = 80) -> pd.DataFrame:
 
     # introduce duplicates (same user_id) for dedup practice
     dup_sample = df.sample(5, random_state=42).copy()
-    dup_sample["full_name"] = dup_sample["full_name"].apply(lambda x: x + " Jr.")
+    dup_sample.loc[:, "full_name"] = dup_sample["full_name"].apply(lambda x: x + " Jr.")
     df = pd.concat([df, dup_sample], ignore_index=True)
 
     return df
